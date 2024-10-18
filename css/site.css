@@ -1,4 +1,15 @@
 a:hover{
-    background-color:rgba(0, 0, 0, 0.527);
+    background-color:rgba(255, 255, 255, 0.452);
     font-size:40;
+}
+.home{
+    margin:10px;
+    padding:10px;
+    border:solid 5px wheat;
+    background-color:rgba(47, 147, 165, 0.781);
+    text-align: center;
+}
+body{
+    color:aliceblue;
+    font-size: 30px;
 }
