@@ -2,3 +2,12 @@ a:hover{
     background-color:rgba(0, 0, 0, 0.527);
     font-size:40;
 }
+.main{
+    margin:10px;
+    padding:10px;
+    border:solid 5px wheat;
+  background-color: rgba(0, 111, 175, 0.829);
+    color:white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
