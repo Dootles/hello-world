@@ -27,4 +27,14 @@ a:hover{
     border:solid 5px;
     background-color:red;
     text-align: center;
+
+}
+.img{
+       height: 25%;
+    width: 25%; 
+    border: 40px black;
+}
+#burger{
+    height: 10%;
+    width: 10%;
 }

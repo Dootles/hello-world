@@ -12,9 +12,13 @@ a:hover{
     max-height: 100%;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 5px;
+
 }
 .home #snoop{
     border:solid 15px rgb(255, 199, 94);
+    width: 45%;
+    height: 45%;
 }
 body{
     color:aliceblue;
